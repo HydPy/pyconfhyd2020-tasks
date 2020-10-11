@@ -14,6 +14,8 @@ There would be following workgroups and corresponding leads are mentioned below 
 
 - Design: Subani
 
-- Tickets & Platform: Ram
+- Platform: Ram
 
 - Website: Bharat
+
+- Tickets & Volunteers - Jatin
