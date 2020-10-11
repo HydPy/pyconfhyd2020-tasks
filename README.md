@@ -10,11 +10,11 @@ There would be following workgroups and corresponding leads are mentioned below 
 
 - CFP: Prudhvi, Snehith
 
-- Promotions: Sanchit
+- Promotions: Sanchit & Kalyan
 
 - Design: Subani
 
-- Platform: Ram
+- Platform: Ram & Sanchit
 
 - Website: Bharat
 
