@@ -12,7 +12,7 @@ There would be following workgroups and corresponding leads are mentioned below 
 
 - Promotions: Sanchit & Kalyan
 
-- Design: Subani
+- Design: Sanchit, Bharat, Snehith
 
 - Platform: Ram & Sanchit
 
