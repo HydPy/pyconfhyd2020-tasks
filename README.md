@@ -19,3 +19,5 @@ There would be following workgroups and corresponding leads are mentioned below 
 - Website: Bharat
 
 - Tickets & Volunteers - Jatin
+
+- Diversity - Vaishnavi
